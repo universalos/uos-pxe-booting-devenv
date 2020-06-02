@@ -1,0 +1,7 @@
+*.tar.*
+*uClib*
+*zibix*
+*.cpp*
+*.S*
+iostream
+Makefile
